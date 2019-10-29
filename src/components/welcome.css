@@ -1,0 +1,274 @@
+.content-container { 
+    max-width: 90%;
+    margin: auto ;
+}
+
+#word {
+    margin-left: 120px;
+    margin-top: 50px; 
+    font-size: 20px;
+    
+}
+
+#word2 {
+    -webkit-transform: rotate(-90deg); 
+    -moz-transform: rotate(-90deg);    
+    width:100px;
+    margin-right: 130px;
+    margin-top: 300px;
+    font-size: 20px;
+}
+
+#word3 {
+    margin-left: 80px;
+    margin-top: 220px; 
+    font-size: 25px;
+}
+
+#word4 {
+    margin-left: 80px;
+    
+}
+
+#cont {
+    -webkit-transform: rotate(-90deg); 
+    -moz-transform: rotate(-90deg);    
+    margin-left: 130px;
+    margin-top: 20px;  
+    font-size: 20px;
+}
+
+#main {
+    height: 700px;
+    background: #232323;
+    color: white; 
+}
+
+#head {
+    margin-left: 170px;
+    margin-top: -290px; 
+    font-size: 20px;
+    
+}
+
+#head a {
+    color:black;
+    padding-right: 12px;
+}
+
+#head a:hover {
+    text-decoration: none; color:black; 
+}
+
+#firstsentens {
+    margin-top: 50px;
+    margin-left: -100%; 
+    font-size: 20px;  
+}
+
+#first {
+    width:1080px; 
+    height: 200px;
+    margin: center;
+    margin-top: 50px;
+}
+
+#secondsentens {
+    margin-top: 50px;
+    margin-left: -100%; 
+    font-size: 20px;
+  
+}
+
+#thirdsentens {
+    margin-top: 80px;
+    margin-left: -100%; 
+    font-size: 20px;
+}
+
+#foursentens {
+    margin-top: 100px;
+    margin-bottom: 40px;
+    
+  
+}
+
+#footer {
+    margin-top: 80px;
+    height: 400px;
+    background: #232323;
+    color: white; 
+    padding-top: 80px;
+}
+#footer a{
+    color: white;
+}
+
+#footer a:hover {
+    text-decoration: none; color:white; 
+}
+
+#kind {
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+#price {
+    margin-right: 80px;
+    font-size: 20px;
+}
+
+#btt{
+    padding-top: 50px; 
+    /* padding-right: 100px; */
+    text-align: center;
+}
+
+.left {
+    margin-right: -20%;
+}
+
+#one {
+    width: 320px;
+    height: auto;
+    
+}
+.right {
+    margin-left: 20px;
+}
+
+#two {
+    margin-top: 80px;
+    width:300px; 
+    height: auto;
+    margin-right: 50px;
+
+}
+
+.zoom {
+    transition: transform .2s; 
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+  }
+.zoom:hover {
+    transform: scale(1.5);
+    z-index: 1;
+    position: relative;
+}
+
+#three {
+    margin-top: 80px;
+    width:300px; 
+    height: auto;
+    margin-left: 25px;
+}
+#four {
+    margin-top: 80px;
+    width:300px; 
+    height: auto;
+    margin-left: 50px;
+}
+
+#call {
+   /* margin-left: 100px; */
+   margin-top: 17px; 
+   
+} 
+
+#inst{
+    margin-top: 80px;
+    margin-bottom: 40px;
+    margin-right: 730px;
+}
+
+#inst a {
+    color:black;
+    font-size: 25px;
+
+}
+ 
+#inst a:hover {
+    text-decoration: none; color:black; 
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+body{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: large;
+}
+
+#pr {
+    font-size: 22px;
+   
+}
+
+#ki {
+    font-size: 22px;
+}
+
+#instOne {
+    margin-left: 40px;
+    width: 200px;
+    height: auto;
+}
+#instTwo {
+    margin-left: 30px;
+    width: 200px;
+    height: auto;
+}
+
+#instThree {
+    margin-left:10px ;
+    width: 200px;
+    height: auto;
+}
+#instFour{
+    margin-right: 60px;
+    width: 200px;
+    height: auto;
+}
+
+#location {
+    margin-bottom:20px;
+}
+
+.gall  {
+       margin-top:80px;
+
+
+}
+
+#whatsapp {
+    width: 25px;
+    height: auto;
+    padding-bottom: 5px;
+
+}
+#vk {
+    width: 25px;
+    height: auto;
+    padding-bottom: 5px;
+
+}
+#telegram {
+    width: 25px;
+    height: auto;
+    padding-bottom: 5px;
+
+}
+#instagram {
+    width: 25px;
+    height: auto;
+    padding-bottom: 5px;
+}
+
+.galOne {
+    
+}
